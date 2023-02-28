@@ -1,4 +1,4 @@
-# Mainstack eCommerce API
+# Commerce Store API
 
 A simple ecommerce API
 
@@ -28,7 +28,7 @@ Build a simple ecommerce API with the following features:
 
 ## Host Link
 
-API Endpoint: [Production](https://mainstack-ecommerce-api-production.up.railway.app/)
+API Endpoint: [Production](https://commerce-api-production.up.railway.app/)
 
 ## Features
 
@@ -38,7 +38,7 @@ API Endpoint: [Production](https://mainstack-ecommerce-api-production.up.railway
 
 ## Documentation
 
-Postman: [See documentation](https://documenter.getpostman.com/view/11724511/2s93CGSw7C)
+Postman: [See documentation]
 
 ## API Endpoints
 
@@ -62,11 +62,11 @@ PATCH /api/v1/products/:productId
 ## Clone this project
 
 ```
-git clone https://github.com/mr-chidex/mainstack-ecommerce-api.git
+git clone https://https://github.com/Ozodimgba/commerce-store-api.git
 ```
 
 ```
-cd mainstack-ecommerce-api
+cd commerce-store-api
 ```
 
 ## Configure the app
